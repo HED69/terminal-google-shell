@@ -1,4 +1,4 @@
 # terminal-google-shell
-#creador: HED
+creador: HED
 
 hola gay, me comes el pito
