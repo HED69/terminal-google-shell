@@ -8,3 +8,5 @@ dejare aqui el enlace a lo de google: https://console.cloud.google.com/
 instalacion:
 
 git clone https://github.com/HED69/terminal-google-shell
+
+contacto: HED_BOT@protonmail.com
