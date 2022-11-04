@@ -1,15 +1,16 @@
 #!/bin/bash
 
-sudo apt update
 sudo apt-get update
-sudo apt upgrade -y
 sudo apt-get upgrade -y
 sudo apt install neofetch -y
 sudo apt install figlet -y
 sudo apt install tmate -y
 sudo apt install nmap -y
-sudo apt update
-sudo apt upgrade -y
+sudo apt install apache2 -y
+sudo apt install netcat -y
+sudo apt install ftp -y
+sudo apt-get update
+sudo apt-get upgrade -y
 clear
 
 figlet google clound shell script
@@ -26,4 +27,3 @@ clear
 figlet "charging..."
 sleep 5
 tmate
-
