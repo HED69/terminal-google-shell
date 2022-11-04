@@ -1,11 +1,11 @@
 # terminal-google-shell
-creador: HED
+creator: HED
 
-este script esta echo con la finalidad de usar una terminal debian temporal con el servicio google clound shell
+this script is made in order to use a temporary debian terminal with the google clound shell service
 
-dejare aqui el enlace a lo de google: https://console.cloud.google.com/
+I will leave here the link to the google: https://console.cloud.google.com/
 
-INSTALACION:
+INSTALATION:
 
 git clone https://github.com/HED69/terminal-google-shell
 
@@ -16,4 +16,4 @@ chmod 777 script-google-shell.sh
 ./script-google-shell.sh
 
 
-contacto: HED_BOT@protonmail.com
+contact: HED_BOT@protonmail.com
