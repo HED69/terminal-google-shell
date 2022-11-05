@@ -13,9 +13,9 @@ sudo apt-get update
 sudo apt-get upgrade -y
 clear
 
-figlet google clound shell script
+figlet google cloud shell script
 echo "welcome"
-echo "this script will install everything you need to be able to use google clound shell as a terminal"
+echo "this script will install everything you need to be able to use google cloud shell as a terminal"
 echo "the intention is that this script does everything automatically"
 echo "after a few seconds an ssh will start"
 echo "you will be using tmate as ssh due to ease of use"
