@@ -3,7 +3,7 @@ creator: HED
 
 this script is made in order to use a temporary debian terminal with the google cloud shell service
 
-I will leave here the link to the google: https://console.cloud.google.com/
+link to the google shell cloud: https://console.cloud.google.com/
 
 # INSTALLATION
 
