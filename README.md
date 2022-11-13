@@ -9,6 +9,8 @@ Once the repository is installed, it will not be necessary to reinstall it, but 
 
 I am working on a new version of the script that will create a vnc server to use
 
+in the future after adding vnc server hacking tools will be added
+
 # INSTALLATION
 
 git clone https://github.com/HED69/terminal-google-shell
