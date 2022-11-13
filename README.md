@@ -7,6 +7,8 @@ link to the google shell cloud: https://console.cloud.google.com/ (is free)
 
 Once the repository is installed, it will not be necessary to reinstall it, but it will be executed every time you want to use it.
 
+I am working on a new version of the script that will create a vnc server to use
+
 # INSTALLATION
 
 git clone https://github.com/HED69/terminal-google-shell
