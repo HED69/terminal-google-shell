@@ -17,6 +17,8 @@ cd terminal-google-shell
 
 chmod 777 script-google-shell.sh
 
+chmod 777 osint-google-shell.sh
+
 ./script-google-shell.sh
 
 
