@@ -21,6 +21,8 @@ chmod 777 osint-google-shell.sh
 
 ./script-google-shell.sh
 
+(optional): ./osint-google-shell.sh
+
 
 # CONTACT
 my email: HED_BOT@protonmail.com
