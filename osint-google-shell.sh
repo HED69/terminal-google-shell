@@ -30,7 +30,7 @@ chmod 755 msfinstall && \
 echo "installing sherlock..."
 git clone https://github.com/sherlock-project/sherlock.git
 cd sherlock
-sudo apt install python3-numpy
+sudo apt install python3-numpy -y
 python3 -m pip install -r requirements.txt
 cd
 cd terminal-google-shell
