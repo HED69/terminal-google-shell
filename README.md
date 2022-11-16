@@ -82,3 +82,8 @@ Type "help" to see this message any time. Type "builtin help" to see Bash interp
 
 # CONTACT
 my email: HED_BOT@protonmail.com
+
+
+
+
+ᴵ ᵃᵐ ⁿᵒᵗ ʳᵉˢᵖᵒⁿˢᶦᵇˡᵉ ᶠᵒʳ ᵐᶦˢᵘˢᵉ
