@@ -28,7 +28,7 @@ chmod 777 osint-google-shell.sh
 ./script-google-shell.sh
 ```
 ```
-(optional): ./osint-google-shell.sh
+./osint-google-shell.sh
 ```
 
 # OFFICIAL GOOGLE CLOUD SHELL DOCUMENTATION
