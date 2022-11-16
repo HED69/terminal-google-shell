@@ -12,6 +12,7 @@ sudo apt install nmap -y
 sudo apt install apache2 -y
 sudo apt install netcat -y
 sudo apt install ftp -y
+sudo apt install php -y
 sudo apt update
 sudo apt upgrade -y
 clear
