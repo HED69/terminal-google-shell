@@ -11,6 +11,35 @@ I added tools for osint, in the future I will also add installers for hacking to
 
 ![Test Image](https://media.discordapp.net/attachments/906088924693286962/1042052294390333500/Screenshot_2022-11-15_13.22.31.png?width=899&height=478)
 
+# OSINT
+these are all the osint tools available at the moment
+
+Shodan
+
+metasploit-framework
+
+sherlock
+
+osintgram
+
+h8mail
+
+recon-ng
+
+Email-Harvester
+
+PhoneInfoga
+
+DoxPhone
+
+nmap
+
+photon
+
+vector
+
+![Test Image](https://media.discordapp.net/attachments/1033030029858312312/1042463936332701897/Screenshot_2022-11-16_16.33.24.png)
+
 # INSTALLATION
 ```
 git clone https://github.com/HED69/terminal-google-shell
