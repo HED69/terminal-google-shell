@@ -9,6 +9,8 @@ Once the repository is installed, it will not be necessary to reinstall it, but 
 
 I added tools for osint, in the future I will also add installers for hacking tools
 
+(it is being developed in a script that will pay for the use of wifi through https://pawns.app)
+
 ![Test Image](https://media.discordapp.net/attachments/906088924693286962/1042052294390333500/Screenshot_2022-11-15_13.22.31.png?width=899&height=478)
 
 # OSINT
