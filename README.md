@@ -63,7 +63,12 @@ chmod 777 osint-google-shell.sh
 ```
 ./osint-google-shell.sh
 ```
-
+```
+chmod 777 pawns-script.sh
+```
+```
+./pawns-script.sh
+```
 # OFFICIAL GOOGLE CLOUD SHELL DOCUMENTATION
 
 
