@@ -5,7 +5,24 @@ clear
 echo "This script will install a wide variety of tools for osint, below I will specify which ones."
 echo "some of the tools may not be from the official sources due to being removed"
 sleep 2
-figlet "From Terminal"
+
+
+echo '   '
+echo '   '
+echo ' ██████╗ ███████╗██╗███╗   ██╗████████╗    ████████╗ ██████╗  ██████╗ ██╗     ███████╗    '
+echo '██╔═══██╗██╔════╝██║████╗  ██║╚══██╔══╝    ╚══██╔══╝██╔═══██╗██╔═══██╗██║     ██╔════╝    '
+echo '██║   ██║███████╗██║██╔██╗ ██║   ██║          ██║   ██║   ██║██║   ██║██║     ███████╗    '
+echo '██║   ██║╚════██║██║██║╚██╗██║   ██║          ██║   ██║   ██║██║   ██║██║     ╚════██║    '
+echo '╚██████╔╝███████║██║██║ ╚████║   ██║          ██║   ╚██████╔╝╚██████╔╝███████╗███████║    '
+echo ' ╚═════╝ ╚══════╝╚═╝╚═╝  ╚═══╝   ╚═╝          ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝╚══════╝    '
+echo '    '                                                                                     
+
+
+
+
+
+
+
 sleep 1
 echo "Shodan"
 echo "metasploit-framework"
